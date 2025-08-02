@@ -20,7 +20,6 @@ Welcome to my collection of beginner-to-intermediate C++ projects — a mix of f
 | `password-generator` | Random password generator with options |
 | `save-test`          | A simple project to test file saving |
 | `the-password-game`  | Inspired by the internet meme version |
-| `timer`              | Stopwatch-style countdown app |
 | `word-counter`       | Counts words/characters from input text |
 
 ---
@@ -37,7 +36,7 @@ Each project lives in its own folder with:
 
 main.cpp or similar file
 
-README.md (soon for each one!)
+i made each one with different ides and code editors so they are different
 
 Any resources used (txt files, images, etc.)
 
@@ -54,5 +53,6 @@ Show what I’ve built as a student from Syria learning programming solo
 
 ⚖️ License
 This code is open source under the MIT License. Feel free to use or remix anything here with credit.
+
 
 Made with 💙 by Bashir Almtt
